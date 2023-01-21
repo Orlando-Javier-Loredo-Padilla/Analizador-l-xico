@@ -1,2 +1,2 @@
-# Analizador-l-xico
+# Analizador-lexico
 Trabajo completo del analizador léxico
